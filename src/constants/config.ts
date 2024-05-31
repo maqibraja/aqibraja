@@ -40,12 +40,12 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "Aaqib Raja",
+    title: "Aaqib Portfolio | Full Stack Developer",
     fullName: "Aaqib Raja",
-    email: "johndoe@mail.com",
+    email: "maqibraja@hotmail.com",
   },
   hero: {
-    name: "Aaqib Raja",
+    name: "Aaqib",
     p: ["I develop Android Apps, user", "interfaces, and web applications."],
   },
   contact: {
@@ -67,11 +67,10 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `Hi, I'm Aqib, Innovative developer skilled in Flutter,
+      React, and full-stack web development with CodeIgniter and Laravel.
+      Proficient in cloud solutions with AWS, expert in Docker for streamlined workflows,
+      and seasoned in Android app development.`,
     },
     experience: {
       p: "What I have done so far",
