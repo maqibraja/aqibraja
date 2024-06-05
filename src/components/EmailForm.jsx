@@ -8,7 +8,7 @@ const EmailForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const serviceId = 'aqibraja@hotmail.com';
+    const serviceId = 'maqibraja@hotmail.com';
     const templateId = 'template_ynf15qp';
     const publicKey = '33N0BffNLwFZjnLyP';
 
