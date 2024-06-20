@@ -43,7 +43,7 @@ const services: TService[] = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Android Developer",
     icon: mobile,
   },
   {
@@ -51,7 +51,7 @@ const services: TService[] = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Devops",
     icon: creator,
   },
 ];
