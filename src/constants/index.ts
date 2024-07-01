@@ -83,7 +83,7 @@ const experiences: TExperience[] = [
       "The Stack Application is ",
       "the best ux",
       "responsice design in sky ourr auroa code reveiews",
-      "Participating in code reviews",
+      "Participating in code reviews of analog data of  using github",
     ],
   },
   {
