@@ -80,10 +80,10 @@ const experiences: TExperience[] = [
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "The Stack Application is ",
-      "the best ux",
-      "responsice design infsfdf fsdfsthfsdfffsdfsfsfe dynamicdsky orerereurr when auroa code reveigfdgfdews",
-      "Participating in code refsdfsdfsdfsdviews of gdfgdasdasdfgdafsddfdnalog of data of  using github t he github cummnity is reserved at its termonolgy",
+      "",
+      "",
+      "",
+      "",
     ],
   },
   {
